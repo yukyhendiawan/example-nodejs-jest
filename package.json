@@ -4,7 +4,8 @@
 	"description": "A simple Node.js project with Jest for unit testing",
 	"type": "module",
 	"scripts": {
-		"test": "jest"
+		"test": "jest",
+		"changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
 	},
 	"jest": {
 		"verbose": true,
