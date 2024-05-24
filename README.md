@@ -31,10 +31,9 @@ Follow these steps to install the project dependencies:
 
 * [Jest](https://jestjs.io/) - JavaScript Testing Framework
 
-### Author
+### Authors
 
-* [Yuky Hendiawan](https://github.com/yukyhendiawan)
-
-### License
-
-This project is licensed under the MIT License
+- [Buy Me A Coffee (Donate)](https://www.buymeacoffee.com/yukyhendiawan)
+- [Upwork (Hire Me!)](https://www.upwork.com/freelancers/~01559dc6ef8a329c82)
+- [Github](https://github.com/yukyhendiawan)
+- [Website](https://yukyhendiawan.com)
